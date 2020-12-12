@@ -1,0 +1,84 @@
+
+body {
+background-color:#faf3b1;
+margin:10px;
+}
+a:link {    
+color: #f51423;
+text-decoration: none;
+border-bottom: 1px solid;
+}
+
+a:visited {    
+color: #3d14f5;
+}
+
+a:hover {    
+color: #09d924;
+border-bottom: none;
+}
+
+a:active {    
+color: #f5f11b;
+}
+
+h1 {
+color:#b5077e;
+text-align: center;
+font-size:32px
+}
+
+p {
+	color:#230661;
+	font-family: verdana;
+	font-size: 14px;
+	font-style: italic;
+	font-weight:bold;
+	text-align:justify;
+	margin:10px;
+}
+
+p.cursive{
+	color:#e81f10;
+	font-size:20px;
+	font-family:cursive;
+	text-align:center;
+}
+
+p.blue{
+	color:blue;
+	font-family:verdana;
+	font-style:italic;
+	padding:10px;
+	margin:20px;
+}
+
+p.sit{
+	color:#190899;
+	font-family:verdana;
+	font-size:20px;
+	text-align:left;
+	margin:5px;
+}
+
+p.mark{
+	font-size:32px;
+	text-align:central;
+}
+
+div{background-image:url("https://image.freepik.com/free-photo/little-girl-shows-hands-painted-with-paint_111863-74.jpg");
+background-position:center-top;
+background-repeat:no-repeat;
+background-attachment:scroll;
+background-size:contain;
+width:1280px;
+height:1380px;
+margin:10px;
+}
+
+input[type="submit"]{
+	color:blue
+}
+input[type="text"]{
+width:100px;
+}
